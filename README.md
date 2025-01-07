@@ -8,7 +8,7 @@ Welcome 👋 to my GitHub profile !
 ---
 
 <p align='center'>
-    <img width=1024 src="Images/IMAGE_002.png">
+    <img width=1024 src="Images/IMAGE_02.png">
 </p>
 
 <d align='justify'>
