@@ -19,7 +19,7 @@ I am a passionate engineer 👨‍💻 specialising in the integration of cuttin
 1. 🕵**Crime Data Analysis:** Comprehensive insights into LAPD 🚓 🚔 datasets, leveraging AI, SQL, NLP, and data analytics 👮‍♂️.
 2. 🍃**Wind Energy Production 🔌 Forecasting:** Harnessing multi-variable LSTM networks for renewable 🌿 energy 🔋 prediction.
 3. 🏞️**DynamicWalls:** A GNOME wallpaper 🖼️ slider enhancing desktop interactivity and 🎨 aesthetics.
-4. 🤖 **Grid solving robot Arduino:** A grid-solving robot 🦾 that can find its path in a grid and go to the location that it programs ⚙️ to do.
+4. 🤖**Grid solving robot Arduino:** A grid-solving robot 🦾 that can find its path in a grid and go to the location that it programs ⚙️ to do.
 5. 🎮**Snake Game in Proteus 8.9:** A fully-functional "Snake 🐍 Game" with a score display.
 
 <p align='justify'>
