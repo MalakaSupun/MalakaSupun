@@ -10,7 +10,7 @@ Welcome 👋 to my GitHub profile!
 ---
 
 <p align='center'>
-    <img width=1024 src="Images/IMAGE_04.png">
+    <img width=1024 src="Images/IMAGE_16.png">
 </p>
 
 <p align='justify'>
@@ -29,7 +29,3 @@ As an advocate for AI-driven solutions and sustainability, I constantly explore 
 
 <p align='center'>
 🎮✮ ⋆˚｡𖦹 ⋆｡°✩👾
-
-<p align='center'>
-    <img width=1024 src="Images/IMAGE_06.png">
-</p>
