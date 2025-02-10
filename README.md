@@ -20,9 +20,10 @@ I am a passionate engineer 👨‍💻 specialising in the integration of cuttin
 
 1. 🕵 [**Crime Data Analysis:**](https://github.com/MalakaSupun/Crime-Data-Analysis-of-LAPD) Comprehensive insights into LAPD 🚓 🚔 datasets, leveraging AI, SQL, NLP, and data analytics 👮‍♂️.
 2. 🍃 [**Wind Energy Production  Forecasting:**](https://github.com/MalakaSupun/Wind-Energy-Production-Forecasting-with-Multi-variable-LSTM-Networks) Harnessing multi-variable LSTM networks for 🌿 renewable 🔌 energy 🔋 prediction.
-3. 🏞️ [**DynamicWalls:**](https://github.com/MalakaSupun/DynamicWalls-The-gnome-wallpaper-slider) A GNOME wallpaper 🖼️ slider enhancing desktop interactivity and 🎨 aesthetics.
-4. 🤖 [**Grid-solving robot Arduino:**](https://github.com/MalakaSupun/Grid-solving-robot-Arduino-) A grid-solving robot 🦾 that can find its path in a grid and go to the location that it programs ⚙️ to do.
-5. 🎮 [**Snake Game in Proteus 8.9:**](https://github.com/MalakaSupun/Snake-Game-in-Proteus-8.9) A fully-functional "Snake 🐍 Game" with a score display.
+3. 📚 [**DocWise-Assistant:**](https://github.com/MalakaSupun/DocWise-Assistant) An intelligent chatbot application powered by advanced Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) 📕 techniques. 
+4. 🏞️ [**DynamicWalls:**](https://github.com/MalakaSupun/DynamicWalls-The-gnome-wallpaper-slider) A GNOME wallpaper 🖼️ slider enhancing desktop interactivity and 🎨 aesthetics.
+5. 🤖 [**Grid-solving robot Arduino:**](https://github.com/MalakaSupun/Grid-solving-robot-Arduino-) A grid-solving robot 🦾 that can find its path in a grid and go to the location that it programs ⚙️ to do.
+6. 🎮 [**Snake Game in Proteus 8.9:**](https://github.com/MalakaSupun/Snake-Game-in-Proteus-8.9) A fully-functional "Snake 🐍 Game" with a score display.
 
 <p align='justify'>
 As an advocate for AI-driven solutions and sustainability, I constantly explore new frontiers in renewable energy, robotics, and intelligent systems. My creative, hands-on approach enables me to design and implement impactful solutions that blend innovation with practicality.
