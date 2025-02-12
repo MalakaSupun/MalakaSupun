@@ -18,7 +18,7 @@ I am a passionate engineer 👨‍💻 specialising in the integration of cuttin
 
 ### My notable projects include:
 
-1. 🕵 [**Crime Data Analysis:**](https://github.com/MalakaSupun/Crime-Data-Analysis-of-LAPD) Comprehensive insights into LAPD 🚓 🚔 datasets, leveraging AI, SQL, NLP, and data analytics 👮‍♂️.
+1. 🕵 [**Crime Data Analysis of LAPD:**](https://github.com/MalakaSupun/Crime-Data-Analysis-of-LAPD) Comprehensive insights into LAPD 🚓 🚔 datasets, leveraging AI, SQL, NLP, and data analytics 👮‍♂️.
 2. 🍃 [**Wind Energy Production  Forecasting:**](https://github.com/MalakaSupun/Wind-Energy-Production-Forecasting-with-Multi-variable-LSTM-Networks) Harnessing multi-variable LSTM networks for 🌿 renewable 🔌 energy 🔋 prediction.
 3. 📚 [**DocWise-Assistant:**](https://github.com/MalakaSupun/DocWise-Assistant) An intelligent chatbot application powered by advanced Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) 📕 techniques. 
 4. 🏞️ [**DynamicWalls:**](https://github.com/MalakaSupun/DynamicWalls-The-gnome-wallpaper-slider) A GNOME wallpaper 🖼️ slider enhancing desktop interactivity and 🎨 aesthetics.
