@@ -24,6 +24,7 @@ I am a passionate engineer 👨‍💻 specialising in the integration of cuttin
 4. 🏞️ [**DynamicWalls:**](https://github.com/MalakaSupun/DynamicWalls-The-gnome-wallpaper-slider) A GNOME wallpaper 🖼️ slider enhancing desktop interactivity and 🎨 aesthetics.
 5. 🤖 [**Grid-solving robot Arduino:**](https://github.com/MalakaSupun/Grid-solving-robot-Arduino-) A grid-solving robot 🦾 that can find its path in a grid and go to the location that it programs ⚙️ to do.
 6. 🎮 [**Snake Game in Proteus 8.9:**](https://github.com/MalakaSupun/Snake-Game-in-Proteus-8.9) A fully-functional "Snake 🐍 Game" with a score display.
+7. 🦾 [**EMG-Controlled Adaptive Wearable Robotic Exoskeleton for Upper Limb Rehabilitation:**](https://github.com/MalakaSupun/EMG-Controlled-Adaptive-Wearable-Robotic-Exoskeleton-for-Upper-Limb-Rehabilitation) This project focuses on developing a wearable 🤖 robotic exoskeleton system controlled by electromyography (EMG) signals to aid in the rehabilitation of upper limb function.
 
 <p align='justify'>
 As an advocate for AI-driven solutions and sustainability, I constantly explore new frontiers in renewable energy, robotics, and intelligent systems. My creative, hands-on approach enables me to design and implement impactful solutions that blend innovation with practicality.
